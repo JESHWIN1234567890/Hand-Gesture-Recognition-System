@@ -146,7 +146,7 @@ Action Execution
 
 The application detects the user's hand and tracks 21 landmarks in real time.
 
-![Hand Detection](hand_detection1.png)
+![Hand Detection](hand.png)
 
 ### Screenshot Gesture
 
