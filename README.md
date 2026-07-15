@@ -142,22 +142,24 @@ Action Execution
 ---
 
 ## 📷 Screenshots
-
 ### Hand Detection
 
-Add image here
+The application detects the user's hand and tracks 21 landmarks in real time.
 
-```
-images/hand_detection.png
-```
+![Hand Detection](hand_detection1.png)
 
 ### Screenshot Gesture
 
-Add image here
+Making the Open Palm (🤚) gesture triggers automatic volume down.
+![Hand Detection](screenshot_gesture.png)
 
-```
-images/screenshot_gesture.png
-```
+---
+
+### Screenshot Gesture
+
+Making the Peace (✌️) gesture triggers automatic screenshot capture.
+
+![Screenshot Gesture](hand_detection.png)
 
 ---
 
